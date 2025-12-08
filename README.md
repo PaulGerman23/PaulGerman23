@@ -88,7 +88,7 @@ Incluye gestión de clientes, inventarios, ventas, reportes y seguridad por role
 ## 🔗 Contáctame
 
 - Email: **paulmamani10@gmail.com**
-- LinkedIn: [Paul German Mamani](www.linkedin.com/in/paul-german-mamani)
+- LinkedIn: [Paul German Mamani](https://www.linkedin.com/in/paul-german-mamani/)
 - GitHub: [@PaulGerman23](https://github.com/PaulGerman23)
 
 ---
