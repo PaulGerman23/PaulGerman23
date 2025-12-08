@@ -76,14 +76,6 @@ Incluye gestión de clientes, inventarios, ventas, reportes y seguridad por role
 
 ---
 
-### 🤖 Robot IoT – ESP8266
-Robot controlado por Wi-Fi mediante aplicación móvil.  
-Implementación de servos, sensores ultrasónicos y control por interfaz táctil.
-
-**🔧 Stack:** C++ / ESP8266 / Flutter  
-**✨ Destacado:** Control en tiempo real + modo AP independiente de internet.
-
----
 
 ## 📊 Estadísticas de GitHub
 
