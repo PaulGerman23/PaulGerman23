@@ -87,13 +87,9 @@ Implementación de servos, sensores ultrasónicos y control por interfaz táctil
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulGerman23&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulGerman23&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=PaulGerman23&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PaulGerman23&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulGerman23&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
