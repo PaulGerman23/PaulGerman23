@@ -93,12 +93,6 @@ Incluye gestión de clientes, inventarios, ventas, reportes y seguridad por role
 
 ---
 
-## 🎯 Filosofía Profesional
-
-> “El código no solo debe funcionar; debe ser claro, escalable y contar una historia.”
-
----
-
 <p align="center">
   Gracias por visitar mi perfil 🚀  
   <br>
