@@ -11,7 +11,7 @@
 
 ## 🎯 Sobre Mí
 
-Soy un **Analista de Sistemas** y **Desarrollador Full-Stack Jr** de **El Carril, Salta (Argentina)**.  
+Soy un **Analista de Sistemas** y **Desarrollador Full-Stack** de **El Carril, Salta (Argentina)**.  
 Me especializo en crear soluciones modernas, escalables y orientadas a resultados: desde **sistemas POS**, **CRM**, **aplicaciones móviles en Flutter**, hasta **proyectos IoT con ESP8266**.
 
 💡 Busco siempre escribir código limpio, mantenible y eficiente.  
