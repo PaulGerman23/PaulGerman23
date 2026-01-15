@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <em>Desarrollador Full-Stack Jr · Analista de Sistemas · Apasionado por la tecnología</em>
+  <em>Desarrollador Full-Stack · Analista de Sistemas · Apasionado por la tecnología</em>
 </p>
 
 ---
